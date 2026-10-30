@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Neon Wild is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Neon Wild is a personalized children's entertainment platform backed by Andreessen Horowitz (a16z) through its SPEEDRUN games program. Founded in New York by Troy Kirwin, it uses AI to transform a child's likeness into the hero of interactive digital books and narrative experiences distributed via the Apple App Store and Google Play. As of this enrichment pass the company publishes no developer API, OpenAPI, SDK, or MCP surface, and its former neonwild.com Squarespace site has expired. This profile remains a portfolio-lead stub in the API Evangelist network.
 
-Backed by: a16z
+**Areas:** Company · Children · Entertainment · Games · Consumer App
+
+## Neon Wild on APIs.io
+
+Everything profiled for Neon Wild is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/neon-wild/](https://apis.io/providers/neon-wild/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Neon Wild: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/neon-wild/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
